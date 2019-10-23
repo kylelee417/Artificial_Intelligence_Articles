@@ -7,6 +7,7 @@ https://machinelearningmastery.com/how-to-perform-object-detection-in-photograph
 [1]:https://github.com/matterport/Mask_RCNN
 ## SSD
 How to track objects on image/frame with TensorFlow and OpenCV - [blog][1]
-
+Basic SSD Review - [blog][2]
 
 [1]:https://medium.com/hal24k-techblog/how-to-track-objects-in-the-real-world-with-tensorflow-sort-and-opencv-a64d9564ccb1
+[2]:https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
